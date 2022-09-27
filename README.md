@@ -1,2 +1,1 @@
-# cse100-lab1
-https://bsalimi.github.io/dsc100-fa22/
+https://ryhouu.github.io/cse110-lab1/
