@@ -5,8 +5,8 @@
 > *B.S. Math-CS* and *B.S. Data Science*
 
 ## Social Media
-- [LinkedIn](https://linkedin.com/in/ruoyu-hou-51583518a)
-- [Github](https://github.com/Ryhouu)
+- [LinkedIn](https://linkedin.com/in/ruoyu-hou-51583518a/)
+- [Github](https://github.com/Ryhouu/)
 
 ## Tech Skills
 - **Languages**: `C`/`C++`, `Python`, `Java`, `Matlab`, `R`
@@ -49,17 +49,17 @@
 
 ## Courses
 
-[X] Machine Learning
-[X] Advanced Data Structures
-[X] Analysis of Algorithms 
-[X] Math Statistics
-[X] Theory of Computation
-[X] Numerical Analysis - Linear Algebra
-[ ] Software Engineering
-[ ] Principles of Computer Operating Systems
-[ ] Deep Learning
-[ ] Recommender Systems and Web Mining
-[ ] AI: Probabilistic Reasoning and Learning
-[ ] Data Management
+- [X] Machine Learning
+- [X] Advanced Data Structures
+- [X] Analysis of Algorithms 
+- [X] Math Statistics
+- [X] Theory of Computation
+- [X] Numerical Analysis - Linear Algebra
+- [ ] Software Engineering
+- [ ] Principles of Computer Operating Systems
+- [ ] Deep Learning
+- [ ] Recommender Systems and Web Mining
+- [ ] AI: Probabilistic Reasoning and Learning
+- [ ] Data Management
 
 ![](images/index_me.jpg)
