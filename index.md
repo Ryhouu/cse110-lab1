@@ -5,8 +5,8 @@
 > *B.S. Math-CS* and *B.S. Data Science*
 
 ## Social Media
-- [LinkedIn](linkedin.com/in/ruoyu-hou-51583518a)
-- [Github](github.com/Ryhouu)
+- [LinkedIn](https://linkedin.com/in/ruoyu-hou-51583518a)
+- [Github](https://github.com/Ryhouu)
 
 ## Tech Skills
 - **Languages**: `C`/`C++`, `Python`, `Java`, `Matlab`, `R`
